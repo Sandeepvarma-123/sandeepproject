@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-os-4.14.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-support-4.14.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-ie-driver-4.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-ie-driver-4.14.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-java-4.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-java-4.14.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-json-4.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-json-4.14.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-manager-4.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-manager-4.14.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-os-4.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-remote-driver-4.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-remote-driver-4.14.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-safari-driver-4.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-safari-driver-4.14.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-support-4.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-chromium-driver-4.14.1 - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-chromium-driver-4.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-chromium-driver-4.14.1-sources - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-chromium-driver-4.14.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-devtools-v85-4.14.1 - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-devtools-v85-4.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-devtools-v85-4.14.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-devtools-v116-4.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-devtools-v116-4.14.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-devtools-v117-4.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-devtools-v117-4.14.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-devtools-v118-4.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-devtools-v118-4.14.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-edge-driver-4.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-edge-driver-4.14.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-firefox-driver-4.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-firefox-driver-4.14.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-http-4.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-http-4.14.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-api-4.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-api-4.14.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-chrome-driver-4.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/Downloads/sandeep/selenium-chrome-driver-4.14.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/OneDrive/Documents/sandy/lib/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/OneDrive/Documents/sandy/lib/byte-buddy-1.14.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/OneDrive/Documents/sandy/lib/checker-qual-3.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/OneDrive/Documents/sandy/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/OneDrive/Documents/sandy/lib/error_prone_annotations-2.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/OneDrive/Documents/sandy/lib/failsafe-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/OneDrive/Documents/sandy/lib/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/OneDrive/Documents/sandy/lib/guava-32.1.2-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/OneDrive/Documents/sandy/lib/j2objc-annotations-2.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/OneDrive/Documents/sandy/lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/OneDrive/Documents/sandy/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/OneDrive/Documents/sandy/lib/opentelemetry-api-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/OneDrive/Documents/sandy/lib/opentelemetry-api-events-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/OneDrive/Documents/sandy/lib/opentelemetry-context-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/OneDrive/Documents/sandy/lib/opentelemetry-exporter-logging-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/OneDrive/Documents/sandy/lib/opentelemetry-extension-incubator-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/OneDrive/Documents/sandy/lib/opentelemetry-sdk-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/OneDrive/Documents/sandy/lib/opentelemetry-sdk-common-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/OneDrive/Documents/sandy/lib/opentelemetry-sdk-extension-autoconfigure-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/OneDrive/Documents/sandy/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/OneDrive/Documents/sandy/lib/opentelemetry-sdk-logs-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/OneDrive/Documents/sandy/lib/opentelemetry-sdk-metrics-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/OneDrive/Documents/sandy/lib/opentelemetry-sdk-trace-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/siraz/OneDrive/Documents/sandy/lib/opentelemetry-semconv-1.28.0-alpha.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
